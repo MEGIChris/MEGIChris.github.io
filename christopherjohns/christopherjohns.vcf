@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Johns;Christopher;;;
+FN:Christopher Johns
+ORG:MEGI Engineering Inc.
+ADR;TYPE=WORK:5005 Meadows Rd. Ste. 100
+Lake Oswego, OR 97035
+TITLE:Director of Engineering
+TEL;TYPE=CELL:5039391491
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:chris.johns@megi.com
+URL;TYPE=Digital Business Card:
+URL:https://www.megi.com
+URL;TYPE=Website:https://www.megi.com
+URL;TYPE=LinkedIn:https://linkedin.com/in/chrisjohnspe/
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100125126
+END:VCARD
